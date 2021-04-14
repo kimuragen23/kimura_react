@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react_hello_world/static/css/main.e40c041e.chunk.css",
-    "main.js": "/react_hello_world/static/js/main.c27cd14f.chunk.js",
-    "main.js.map": "/react_hello_world/static/js/main.c27cd14f.chunk.js.map",
-    "runtime-main.js": "/react_hello_world/static/js/runtime-main.b7a166ee.js",
-    "runtime-main.js.map": "/react_hello_world/static/js/runtime-main.b7a166ee.js.map",
-    "static/js/2.6667cdff.chunk.js": "/react_hello_world/static/js/2.6667cdff.chunk.js",
-    "static/js/2.6667cdff.chunk.js.map": "/react_hello_world/static/js/2.6667cdff.chunk.js.map",
-    "index.html": "/react_hello_world/index.html",
-    "static/css/main.e40c041e.chunk.css.map": "/react_hello_world/static/css/main.e40c041e.chunk.css.map",
-    "static/js/2.6667cdff.chunk.js.LICENSE.txt": "/react_hello_world/static/js/2.6667cdff.chunk.js.LICENSE.txt"
+    "main.css": "/kimura_react/static/css/main.e40c041e.chunk.css",
+    "main.js": "/kimura_react/static/js/main.c27cd14f.chunk.js",
+    "main.js.map": "/kimura_react/static/js/main.c27cd14f.chunk.js.map",
+    "runtime-main.js": "/kimura_react/static/js/runtime-main.55e5ba35.js",
+    "runtime-main.js.map": "/kimura_react/static/js/runtime-main.55e5ba35.js.map",
+    "static/js/2.6667cdff.chunk.js": "/kimura_react/static/js/2.6667cdff.chunk.js",
+    "static/js/2.6667cdff.chunk.js.map": "/kimura_react/static/js/2.6667cdff.chunk.js.map",
+    "index.html": "/kimura_react/index.html",
+    "static/css/main.e40c041e.chunk.css.map": "/kimura_react/static/css/main.e40c041e.chunk.css.map",
+    "static/js/2.6667cdff.chunk.js.LICENSE.txt": "/kimura_react/static/js/2.6667cdff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7a166ee.js",
+    "static/js/runtime-main.55e5ba35.js",
     "static/js/2.6667cdff.chunk.js",
     "static/css/main.e40c041e.chunk.css",
     "static/js/main.c27cd14f.chunk.js"
